@@ -1,8 +1,23 @@
 ## P2P金融
+### 项目工程
+- Itcast_p2p它是一个父模块，其它是子模块
+- Itcast_p2p_action  完成struts相关操作
+- Itcast_p2p_cache 它成的缓存  redis相关设置  ehcache
+- Itcast_p2p_dao  持久层操作
+- Itcast_p2p_domain  实体模型
+- Itcast_p2p_home  前台的项目页面
+- Itcast_p2p_jms  消息队列
+- Itcast_p2p_management 后台的项目页面
+- Itcast_p2p_rbac 权限
+- Itcast_p2p_service 业务层
+- Itcast_p2p_utils 工具
+
 ### 系统架构
 
 ![输入图片说明](https://images.gitee.com/uploads/images/2020/0710/163437_f8043ea5_800553.png "屏幕截图.png")
 ![输入图片说明](https://images.gitee.com/uploads/images/2020/0710/163449_d656be72_800553.png "屏幕截图.png")
+
+
 
 ### 项目介绍
 P2P金融又叫P2P信贷。其中，P2P是 peer-to-peer 或 person-to-person 的简写，意思是：个人对个人。P2P金融指个人与个人间的小额借贷交易，一般需要借助电子商务专业网络平台帮助借贷双方确立借贷关系并完成相关交易手续。借款者可自行发布借款信息，包括金额、利息、还款方式和时间，实现自助式借款;借出者根据借款人发布的信息，自行决定借出金额，实现自助式借贷。
