@@ -1,4 +1,10 @@
 ## P2P金融
+
+### 交流方式：
+
+QQ技术交流群：863662849<a target="_blank" href="https://qm.qq.com/cgi-bin/qm/qr?k=9yLlyD1dRBL97xmBKw43zRt0-6xg8ohb&jump_from=webapi">
+<img border="0" src="//pub.idqqimg.com/wpa/images/group.png" alt="Java项目交流+求职面试" title="Java项目交流+求职面试"></a><a target="_blank" href="http://mail.qq.com/cgi-bin/qm_share?t=qm_mailme&email=f0hLSE9OTkdHTT8ODlEcEBI" style="text-decoration:none;"><img src="http://rescdn.qqmail.com/zh_CN/htmledition/images/function/qm_open/ico_mailme_02.png"/></a>
+
 ### 项目工程
 - Itcast_p2p它是一个父模块，其它是子模块
 - Itcast_p2p_action  完成struts相关操作
@@ -16,8 +22,6 @@
 
 ![输入图片说明](https://images.gitee.com/uploads/images/2020/0710/163437_f8043ea5_800553.png "屏幕截图.png")
 ![输入图片说明](https://images.gitee.com/uploads/images/2020/0710/163449_d656be72_800553.png "屏幕截图.png")
-
-
 
 ### 项目介绍
 P2P金融又叫P2P信贷。其中，P2P是 peer-to-peer 或 person-to-person 的简写，意思是：个人对个人。P2P金融指个人与个人间的小额借贷交易，一般需要借助电子商务专业网络平台帮助借贷双方确立借贷关系并完成相关交易手续。借款者可自行发布借款信息，包括金额、利息、还款方式和时间，实现自助式借款;借出者根据借款人发布的信息，自行决定借出金额，实现自助式借贷。
@@ -112,21 +116,3 @@ P2P金融在国内发展初具雏形，但并无明确的立法，国内小额�
 5.	债权管理模块
 6.	撮合管理模块
 7.	权限管理
-
-### 项目演示
-
-将项目运行，演示项目的功能 
-
-### 交流方式：
-
-QQ技术交流群：863662849<a target="_blank" href="https://qm.qq.com/cgi-bin/qm/qr?k=9yLlyD1dRBL97xmBKw43zRt0-6xg8ohb&jump_from=webapi">
-<img border="0" src="//pub.idqqimg.com/wpa/images/group.png" alt="Java项目交流+求职面试" title="Java项目交流+求职面试"></a><a target="_blank" href="http://mail.qq.com/cgi-bin/qm_share?t=qm_mailme&email=f0hLSE9OTkdHTT8ODlEcEBI" style="text-decoration:none;"><img src="http://rescdn.qqmail.com/zh_CN/htmledition/images/function/qm_open/ico_mailme_02.png"/></a>
-
-![QQ技术交流群：863662849](https://images.gitee.com/uploads/images/2020/1022/145319_459f7be2_800553.png "QQ技术交流群.png")
-
-### 整理不易，欢迎各位白嫖star
-如果可以请各位大佬打赏一下，请我喝杯咖啡，资助一下云服务器，部署一个演示站点，感谢！！！
-
-![输入图片说明](https://images.gitee.com/uploads/images/2020/1022/152637_f80669f5_800553.jpeg "支付宝收钱码.jpg")
-
-![输入图片说明](https://images.gitee.com/uploads/images/2020/1022/152705_964cb145_800553.png "微信收钱码.png")
